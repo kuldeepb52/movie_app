@@ -22,5 +22,8 @@ public class Movie {
   private String overview;
   private int revenue;
 
+  public Movie(int id, String title, String release_date) {
+  }
+
 
 }
